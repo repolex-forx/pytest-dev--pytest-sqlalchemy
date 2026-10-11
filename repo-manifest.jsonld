@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-sqlalchemy/commit/61db51b09446d4fe3f69cae3147ab7a559c72b94",
       "git:hexsha": "61db51b09446d4fe3f69cae3147ab7a559c72b94",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.3.0"
     },
     {
