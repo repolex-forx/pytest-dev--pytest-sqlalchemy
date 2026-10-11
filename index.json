@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-sqlalchemy",
+  "versions": [
+    {
+      "commit": "61db51b09446d4fe3f69cae3147ab7a559c72b94",
+      "tag": "0.3.0",
+      "parsed_at": "2026-10-11T02:51:16.135185+00:00"
+    }
+  ]
+}
